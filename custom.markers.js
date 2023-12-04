@@ -58,8 +58,8 @@ UnminedCustomMarkers = {
 
       // Merica
                 {
-            x: 1700,
-            z: 3600,
+            x: 1699,
+            z: 3687,
             image: "images/merica.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -70,10 +70,10 @@ UnminedCustomMarkers = {
             font: "20px times new roman, sans serif",
         },
 
-      // Merica
+      // byzantine empire
                 {
-            x: 4700,
-            z: 5100,
+            x: 4766,
+            z: 5033,
             image: "images/buz.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -86,8 +86,8 @@ UnminedCustomMarkers = {
 
       // Fatimid Caliphate
                 {
-            x: 5700,
-            z: 6400,
+            x: 5445,
+            z: 6386,
             image: "images/fati.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -100,8 +100,8 @@ UnminedCustomMarkers = {
 
       // Caliphate of Cordoba
                 {
-            x: 1000,
-            z: 5700,
+            x: 953,
+            z: 5634,
             image: "images/cordoba.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -114,8 +114,8 @@ UnminedCustomMarkers = {
 
       // Zirid Dynasty
                 {
-            x: 2600,
-            z: 6100,
+            x: 2750,
+            z: 5975,
             image: "images/zirid.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -125,5 +125,20 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
+
+        
+      // Dutchy of Saxony
+      {
+        x: 2783,
+        z: 3559,
+        image: "images/saxony.png",
+        imageAnchor: [0.5, 1],
+        imageScale: 0.3,
+        text: "Dutchy of Saxony",
+        textColor: "black", 
+        offsetX: 0,
+        offsetY: 20,
+        font: "20px times new roman, sans serif",
+    },
     ]
 }
