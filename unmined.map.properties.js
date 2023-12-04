@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -1,
     maxRegionX: 15,
     maxRegionZ: 14,
-    worldName: "europe5 Copy",
+    worldName: "IDOL.smp",
     background: "",
     markers: new Array()
 }

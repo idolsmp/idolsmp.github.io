@@ -56,14 +56,14 @@ UnminedCustomMarkers = {
             font: "20px times new roman, sans serif",
         },
 
-      // Merica
+      // Mercia
                 {
             x: 1699,
             z: 3687,
             image: "images/merica.jpg",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
-            text: "Merica",
+            text: "Mercia",
             textColor: "black", 
             offsetX: 0,
             offsetY: 20,
@@ -134,6 +134,20 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "Duchy of Saxony",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+
+              // Georgia
+        {
+            x: 6174,
+            z: 4404,
+            image: "images/geo.jpg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Kingdom of Georgia",
             textColor: "black", 
             offsetX: 0,
             offsetY: 20,
