@@ -125,20 +125,19 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
-
-        
+   
       // Duchy of Saxony
-      {
-        x: 2783,
-        z: 3559,
-        image: "images/saxony.png",
-        imageAnchor: [0.5, 1],
-        imageScale: 0.3,
-        text: "Duchy of Saxony",
-        textColor: "black", 
-        offsetX: 0,
-        offsetY: 20,
-        font: "20px times new roman, sans serif",
-    },
+        {
+            x: 2783,
+            z: 3559,
+            image: "images/saxony.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Duchy of Saxony",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
     ]
 }
