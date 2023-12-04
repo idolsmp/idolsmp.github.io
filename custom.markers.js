@@ -127,14 +127,14 @@ UnminedCustomMarkers = {
         },
 
         
-      // Dutchy of Saxony
+      // Duchy of Saxony
       {
         x: 2783,
         z: 3559,
         image: "images/saxony.png",
         imageAnchor: [0.5, 1],
         imageScale: 0.3,
-        text: "Dutchy of Saxony",
+        text: "Duchy of Saxony",
         textColor: "black", 
         offsetX: 0,
         offsetY: 20,
