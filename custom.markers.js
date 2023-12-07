@@ -155,7 +155,7 @@ UnminedCustomMarkers = {
         },
         // Bavaria
         {
-            x: 2789,
+            x: 2850,
             z: 4227,
             image: "images/bavaria.png",
             imageAnchor: [0.5, 1],
