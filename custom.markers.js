@@ -153,5 +153,18 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
+        // Bavaria
+        {
+            x: 2789,
+            z: 4227,
+            image: "images/bavaria.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Duchy of Bavaria",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
     ]
 }
