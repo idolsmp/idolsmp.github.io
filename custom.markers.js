@@ -166,5 +166,31 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
+                // Naples
+        {
+            x: 3209,
+            z: 5356,
+            image: "images/naples.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Kingdom of Naples",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+               // Naples
+        {
+            x: 1734,
+            z: 4029,
+            image: "images/normandy.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Duchy of Normandy",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
     ]
 }
