@@ -181,8 +181,8 @@ UnminedCustomMarkers = {
         },
                // normans
         {
-            x: 1734,
-            z: 4029,
+            x: 1711,
+            z: 4292,
             image: "images/normandy.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
@@ -226,6 +226,32 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "Kingdom of Poland",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+                                               // seljuk
+        {
+            x: 6102,
+            z: 5454,
+            image: "images/sejuk.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Seljuk Empire",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+                                                       // Maghrawa Dynasty
+        {
+            x: 610,
+            z: 6090,
+            image: "images/Maghrawa.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Maghrawa Dynasty",
             textColor: "black", 
             offsetX: 0,
             offsetY: 20,
