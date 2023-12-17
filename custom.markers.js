@@ -60,7 +60,7 @@ UnminedCustomMarkers = {
                 {
             x: 1699,
             z: 3687,
-            image: "images/merica.png",
+            image: "images/mercia.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "Kingdom of England",
