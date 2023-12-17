@@ -209,7 +209,7 @@ UnminedCustomMarkers = {
         {
             x: 1558,
             z: 4793,
-            image: "images/aquitane.png",
+            image: "images/Aquitane.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "Duchy of Aquitane",
