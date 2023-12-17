@@ -186,7 +186,7 @@ UnminedCustomMarkers = {
             image: "images/normandy.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
-            text: "Duchy of Normandy",
+            text: "Kingdom of France",
             textColor: "black", 
             offsetX: 0,
             offsetY: 20,
