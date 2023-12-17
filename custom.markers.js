@@ -218,5 +218,18 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
+                                       // poland
+        {
+            x: 3567,
+            z: 3731,
+            image: "images/poland.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Kingdom of Poland",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
     ]
 }
