@@ -179,7 +179,7 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
-               // Naples
+               // normans
         {
             x: 1734,
             z: 4029,
@@ -187,6 +187,19 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.3,
             text: "Duchy of Normandy",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+                       // hungry
+        {
+            x: 3646,
+            z: 4288,
+            image: "images/hungary.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Kingdom of Hungary",
             textColor: "black", 
             offsetX: 0,
             offsetY: 20,
