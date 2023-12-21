@@ -257,5 +257,57 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "20px times new roman, sans serif",
         },
+                                                               // bulgaria
+        {
+            x: 4266,
+            z: 4745,
+            image: "images/bulgaria.jpg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Bulgarian Empire",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+                                                                       // castille
+        {
+            x: 1185,
+            z: 4894,
+            image: "images/castile.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Kingdom of Castille",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+                                                                               // Kingdom of Portugal
+        {
+            x: 576,
+            z: 5091,
+            image: "images/portugal.jpg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Kingdom of Portugal",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
+                                                                                       // Kingdom of Portugal
+        {
+            x: 2957,
+            z: 5216,
+            image: "images/papal.jpg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Papal States",
+            textColor: "black", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "20px times new roman, sans serif",
+        },
     ]
 }
